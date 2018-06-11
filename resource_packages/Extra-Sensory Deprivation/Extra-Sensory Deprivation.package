@@ -1,0 +1,11 @@
+mod = [
+	"Extra-Sensory Deprivation"
+]
+
+package = [
+	"resource_packages/Extra-Sensory Deprivation/Extra-Sensory Deprivation"
+]
+
+lua = [
+	"scripts/mods/Extra-Sensory Deprivation/*"
+]
